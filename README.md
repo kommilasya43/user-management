@@ -56,5 +56,5 @@ User-Management-Dashboard/
 
 ## Author
 
-**Geethika Maturu**
+**kommi lasya**
 **B.Tech – Computer Science and Engineering**
